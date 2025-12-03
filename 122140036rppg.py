@@ -476,15 +476,16 @@ def main():
 if __name__ == "__main__":
     main()
 
-    """
-=============================================
-CATATAN PERBEDAAN DENGAN DEMO DI KELAS
-=============================================
-
-VISUALISASI LEBIH KOMPREHENSIF
-   Demo kelas: Hanya tampilan wajah dengan bounding box
-   Implementasi ini: 4 subplot terpisah:
-   - Video input dengan ROI
-   - Sinyal rPPG yang sudah difilter
-   - Spektrum frekuensi (FFT)
-   - Grafik BPM over time
+    # """
+    # =============================================
+    # CATATAN PERBEDAAN DENGAN DEMO DI KELAS
+    # =============================================
+    # 
+    # VISUALISASI LEBIH KOMPREHENSIF
+    #    Demo kelas: Hanya tampilan wajah dengan bounding box
+    #    Implementasi ini: 4 subplot terpisah:
+    #    - Video input dengan ROI
+    #    - Sinyal rPPG yang sudah difilter
+    #    - Spektrum frekuensi (FFT)
+    #    - Grafik BPM over time
+    # """
