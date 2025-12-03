@@ -1,20 +1,20 @@
-# 💖 Real-time rPPG System for Vital Sign Monitoring
+# Real-time rPPG System for Vital Sign Monitoring
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/[your-username]/[your-repo-name]?style=for-the-badge&color=yellow)](https://github.com/[your-username]/[your-repo-name]/stargazers)
 
-## 🌟 Deskripsi Proyek
+##  Deskripsi Proyek
 
 Proyek ini mengimplementasikan sistem **rPPG (remote Photoplethysmography)** secara *real-time* untuk mendeteksi detak jantung (BPM - Beats Per Minute) seseorang hanya melalui video wajah menggunakan *webcam*.
 
 Demonstrasi ini dirancang khusus untuk memvisualisasikan seluruh proses analisis sinyal rPPG, mulai dari input video hingga hasil detak jantung yang stabil, melalui tata letak (layout) yang informatif dan komprehensif.
 
-## ✨ Fitur Demonstrasi
+## Fitur Demonstrasi
 
 Implementasi ini mencakup dua mode tampilan utama: Mode Sederhana untuk deteksi cepat, dan Mode Analisis Penuh (Empat Subplot) untuk presentasi kelas.
 
-### Mode Tampilan Penuh (Kelas Implementasi)
+### Mode Tampilan Penuh disaat dikelas, bedanya dengan saya, dibawah.
 
 Antarmuka utama didesain sebagai layar penuh yang terbagi menjadi 4 subplot, memberikan wawasan mendalam tentang proses rPPG:
 
