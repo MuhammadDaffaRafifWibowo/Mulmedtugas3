@@ -1,8 +1,6 @@
 # Real-time rPPG System for Vital Sign Monitoring
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/[your-username]/[your-repo-name]?style=for-the-badge&color=yellow)](https://github.com/[your-username]/[your-repo-name]/stargazers)
+
 
 ##  Deskripsi Proyek
 
